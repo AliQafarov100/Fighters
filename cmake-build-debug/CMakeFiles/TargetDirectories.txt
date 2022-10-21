@@ -1,0 +1,3 @@
+C:/Users/M S I/CLionProjects/TwoFighter/cmake-build-debug/CMakeFiles/TwoFighter.dir
+C:/Users/M S I/CLionProjects/TwoFighter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/M S I/CLionProjects/TwoFighter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
